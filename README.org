@@ -1,0 +1,10 @@
+* cl-gss
+
+Common Lisp bindings for GSS-API
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/lokedhs/cl-gss.git   |
+| commit  | 60086f4  |
+| systems | cl-gss |
+|---------+-------------------------------------------|
+
